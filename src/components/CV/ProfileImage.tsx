@@ -9,7 +9,7 @@ interface ProfileImageProps {
 }
 
 const ProfileImage: React.FC<ProfileImageProps> = ({ 
-  src = '/lovable-uploads/e6eb157f-4b4f-4283-80d4-c781e0a442e5.png', 
+  src = 'https://res.cloudinary.com/dv8e9h3o7/image/upload/v1742657168/7fe4feca-264c-4bee-a854-ed4023fe0461_xgvch8.jpg', 
   alt, 
   className 
 }) => {
